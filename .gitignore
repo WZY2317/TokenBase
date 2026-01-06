@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific
+# Configuration files with credentials
+config.py
+
+# Data files
+data/
+*.csv
+*.txt
+
+# Database connection config (if separate from config.py)
+perpetual_contracts/config.py
