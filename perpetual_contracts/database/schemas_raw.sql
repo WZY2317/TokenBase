@@ -213,6 +213,8 @@ CREATE TABLE IF NOT EXISTS gate_perpetual (
     config_change_time TEXT,
     create_time TEXT,
     cross_leverage_default TEXT,
+    delisted_time TEXT,
+    delisting_time TEXT,
     enable_bonus TEXT,
     enable_circuit_breaker TEXT,
     enable_credit TEXT,

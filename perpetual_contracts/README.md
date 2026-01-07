@@ -9,7 +9,7 @@ perpetual_contracts/
 ├── config.py                 # 配置文件
 ├── main_jsonb.py            # 主程序入口（JSONB存储）
 ├── main.py                  # 主程序入口（字段展开存储 - 实验性）
-├── README.md                # 本文件
+├── readme.md                # 本文件
 ├── requirements.txt         # Python依赖
 ├── QUERY_EXAMPLES.md        # SQL查询示例
 ├── exchanges/               # 交易所API模块
